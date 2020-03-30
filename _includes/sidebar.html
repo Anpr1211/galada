@@ -44,9 +44,21 @@
       </li>
       {% else %} {% endif %}
 
-      {% if site.pinterest %}
+      {% if site.linkedin %}
       <li class="social-profiles-item">
-        <a href="{{ site.pinterest }}" class="social-profiles-link"><i class="ion ion-logo-pinterest"></i></a>
+        <a href="{{ site.linkedin }}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a>
+      </li>
+      {% else %} {% endif %}
+      
+      {% if site.google %}
+      <li class="social-profiles-item">
+        <a href="{{ site.google }}" class="social-profiles-link"><i class="ion ion-logo-google"></i></a>
+      </li>
+      {% else %} {% endif %}
+      
+      {% if site.amazon %}
+      <li class="social-profiles-item">
+        <a href="{{ site.amazon }}" class="social-profiles-link"><i class="ion ion-logo-amazon"></i></a>
       </li>
       {% else %} {% endif %}
     </ul>
@@ -79,17 +91,4 @@
   </div>
   {% endif %}
 
-  <div class="widget widget-tags">
-    <h3 class="widget-title">Tag Cloud</h3>
-    {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{%
-    endcapture %} {% assign tag_words = site_tags | split:',' | sort %}
-    <ul class="tag-list list-reset">
-    {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-      {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-        <li class="tag-item"><a href="{{ site.baseurl }}/tags#{{ this_word | cgi_escape }}" class="tag">{{ this_word }}</a></li>
-      {% endunless %}
-    {% endfor %}
-    </ul>
-  </div>
-  
 </aside> <!-- /.sidebar -->
