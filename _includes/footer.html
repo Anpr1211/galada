@@ -4,14 +4,11 @@
       <div class="col col-12">
         <div class="footer-top">
           <h2 class="logo-title">
-            <a href="{{site.baseurl}}/" class="logo-text">Galada</a>
+            <a href="{{site.baseurl}}/" class="logo-text">Srijit Mondal</a>
           </h2>
           <div class="top"><i class="ion ion-ios-arrow-up"></i></div>
         </div>
         <div class="footer-bottom">
-          <div class="copyright">
-            <p>&copy; {{site.time | date: '%Y'}} Crafted & Designed by <a href="https://github.com/artemsheludko">Artem Sheludko</a></p>
-          </div>
           <div class="footer-social">
             <ul class="list-reset">
               {% if site.facebook %}
@@ -26,8 +23,12 @@
               <li><a href="{{ site.instagram }}">Instagram</a></li>
               {% else %} {% endif %}
 
-              {% if site.pinterest %}
-              <li><a href="{{ site.pinterest }}">Pinterest</a></li>
+              {% if site.linkedin %}
+              <li><a href="{{ site.linkedin }}">LinkedIn</a></li>
+              {% else %} {% endif %}
+              
+              {% if site.google %}
+              <li><a href="{{ site.google }}">Google</a></li>
               {% else %} {% endif %}
             </ul>
           </div>
