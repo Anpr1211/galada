@@ -1,8 +1,11 @@
----
-layout: post
-title:  "Mathematical Tricks"
-image:  11.jpg
----
+ ---
+  layout: post
+  title: Mathematical Tricks
+  date: 2020-03-30
+  image: 11.jpg
+  tags: [Mathematics]
+  ---
+
 This book, a one of it's kind, consists of the smallest and the easiest to the most unknown and difficult tricks in Mathematics, which will be handy before any competitive examinations related to mathematics as well as Engineering entrances and common entrances like SAT, etc.
 The revised edition of this book also stresses on parts of Physics and Statistics, making the book an intertwined Brahmastra for any aptitude and formal examinations of any form.
 Hope you enjoy reading the book and keep it handy for any upcoming challenges. Wish you all the best.
