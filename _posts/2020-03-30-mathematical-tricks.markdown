@@ -9,5 +9,5 @@ Hope you enjoy reading the book and keep it handy for any upcoming challenges. W
 
 P.S. Helpful for all JEEs, BITSAT, ISI entrances, SAT, GRE and any other competitive exams.
 
-Buy it from [Amazon][https://www.amazon.in/Mathematical-Tricks-Competitive-Examinations-Statistics-ebook/dp/B07WT5LQSP].
+Buy it from [Amazon](https://www.amazon.in/Mathematical-Tricks-Competitive-Examinations-Statistics-ebook/dp/B07WT5LQSP).
 
