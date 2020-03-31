@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  1001 Objective Problems In Mathematics
-date:   2020-03-30
+date:   2020-03-27
 image:  04.png
 tags:   Entrance 
 ---
