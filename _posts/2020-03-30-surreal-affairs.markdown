@@ -2,7 +2,7 @@
 layout: post
 title:  Surreal Affairs
 date:   2020-03-30
-image:  05.png
+image:  03.png
 tags:   Poetry
 ---
 Surreal Affairs: From Life’s Diary, is a collection of sixty-one poems arising from the over-active mind of a young man , a mind that leaps and jumps and divulges into the deepest emotions, world views, politics, love and anything –everything. With a twist of taste in every poem, find the weirdest ideas and the fascinating thoughts all tied up in the same thread, Surreal Affairs. 
