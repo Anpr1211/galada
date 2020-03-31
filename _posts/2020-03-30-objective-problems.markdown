@@ -2,7 +2,7 @@
 layout: post
 title:  1001 Objective Problems In Mathematics
 date:   2020-03-30
-image:  02.png
+image:  04.png
 tags:   Entrance 
 ---
 The book covers topics like elementary mathematical analysis, mathematical theorems, congruency, inequalities, function, elementary geometry, applications of algebra and calculus .This book will be helpful for pre-college examinations like JEE MAINS, JEE ADVANCED, BITSAT, ISI B.MATH and B.STAT Entrances, RMO, INMO and other examinations.It will also be immensely helpful for all post-college examinations like IIT JAM, CSIR, TIFR, ISI Entrances, GR.
