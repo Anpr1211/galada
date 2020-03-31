@@ -3,7 +3,6 @@ layout: post
 title:  What lies in the mind - My story
 date:   2020-03-31
 image:  07.png
-tags:   Poetry
 ---
 
  “Is it silly to love numbers and alphabets together? I think it isn’t…after all, poetry and mathematics are identical, one speaks for our heart and mind, the other for our brain; sense of beauty in poetry and mathematics is the result of our immediate and unconscious.
