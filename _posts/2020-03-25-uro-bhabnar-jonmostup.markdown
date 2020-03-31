@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Uro Bhabnar Jonmostup
-date:   2020-03-29
+date:   2020-03-25
 image:  06.png
 tags:   Bengali
 ---
