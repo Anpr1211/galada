@@ -2,7 +2,7 @@
 layout: post
 title:  201 Mind Boggling Problems In Mathematics
 date:   2020-03-30
-image:  06.png
+image:  05.png
 tags:   Entrance
 ---
 
