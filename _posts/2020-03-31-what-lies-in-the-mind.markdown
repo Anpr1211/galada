@@ -2,7 +2,7 @@
 layout: post
 title:  What lies in the mind - My story
 date:   2020-03-31
-image:  01.png
+image:  07.png
 tags:   Poetry
 ---
 
