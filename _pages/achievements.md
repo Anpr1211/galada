@@ -4,11 +4,6 @@ title: Achievements
 permalink: /achievements/
 image: 01.png
 ---
-
-![]({{site.baseurl}}/img/10.png)
-
-![]({{site.baseurl}}/img/11.png)
-
 # NE8x "Author of the Year 2020" Nomination
 
 Nominated for NE8x "Author of the Year 2020" for the best-selling book, "Mathematical Tricks".
@@ -19,6 +14,7 @@ Final results are being awaited.
 
 Awarded the prestigious "Voice of Indian Literature" by NE8x for esteemed contribution in literature domain in India and inspiring next generation writers.
 
+![]({{site.baseurl}}/img/10.png)
 
 # Top 100 Leaders In Education
 
