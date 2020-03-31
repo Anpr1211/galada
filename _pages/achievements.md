@@ -14,11 +14,11 @@ Final results are being awaited.
 
 Awarded the prestigious "Voice of Indian Literature" by NE8x for esteemed contribution in literature domain in India and inspiring next generation writers.
 
-![]({{site.baseurl}}/img/10.png)
+![]({{site.baseurl}}/img/10.jpg)
 
 # Top 100 Leaders In Education
 
-Nominated for "Top 100 Leaders In Education " , a prestigious award given by the Global Forum for Education & Learning and the youngest person in history of GFEL Awards to make it to the Final round of nomination.
+Nominated for "Top 100 Leaders In Education" , a prestigious award given by the Global Forum for Education & Learning and the youngest person in history of GFEL Awards to make it to the Final round of nomination.
 
 
 # Interview with NE8x
