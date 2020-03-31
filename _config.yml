@@ -4,7 +4,7 @@
 title: Srijit Mondal
 description: "Portfolio of Srijit Mondal, Indian author."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://srijitmondal.in" # the base hostname & protocol for your site, e.g. http://example.com
+url: "srijitmondal.in" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
