@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Srijit Mondal
-description: "The Official Web Site of Bestselling Author Srijit Mondal, author of Mathematical Tricks, 1001 Objective problems in Mathematics, 201 Mind Boggling Problems in Mathematics and poetry books Surreal Affairs and Uro Bhabnar Jonmostup."
+description: The Official Web Site of Bestselling Author Srijit Mondal, author of Mathematical Tricks, 1001 Objective problems in Mathematics, 201 Mind Boggling Problems in Mathematics and poetry books Surreal Affairs and Uro Bhabnar Jonmostup.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srijitmondal.in" # the base hostname & protocol for your site, e.g. http://example.com
 
